@@ -5,8 +5,8 @@ A number of printable sheets for the magic and rune system in [Legend of Grimroc
 
 Downloads
 ---------
-* Printable magic sheet which can be filled in as you play. [Download](https://github.com/downloads/stuartdb/grimrock-magic/ingame-blank.pdf)
-* Printable magic sheet which has been completely filled in. [Download](https://github.com/downloads/stuartdb/grimrock-magic/ingame-completed-v2.pdf)
+* Printable magic sheet which can be filled in as you play. [Download](https://github.com/stuartdb/grimrock-magic/blob/master/doc/ingame-blank.pdf)
+* Printable magic sheet which has been completely filled in. [Download](https://github.com/stuartdb/grimrock-magic/blob/master/doc/completed.pdf)
 
 
 Documents
@@ -39,12 +39,10 @@ eg:
 
     /img/air4.png
 
-Contains an image of grid filled in for the appropiate spell. 
+Contains an image of grid filled in for the appropiate spell.
 
 
 License
 -------
 
 I release everything in this repository into the public domain.
-
-
